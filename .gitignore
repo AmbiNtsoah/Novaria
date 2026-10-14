@@ -1,0 +1,12 @@
+# sonarcloud
+.sonarlint/
+
+# Snyk
+.github/instructions/snyk_rules.instructions
+
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
